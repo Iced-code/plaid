@@ -114,7 +114,7 @@ public class Image<T extends Comparable<T>> implements Iterable<Node<T>>
             }
         }
         else {
-            for(int i = 0; i < height*3; i++){
+            for(int i = 0; i < height; i++){
                 for(int j = 0; j < width; ++j){
                     
                     if(j < width-1){
