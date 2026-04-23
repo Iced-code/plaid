@@ -1,0 +1,7 @@
+*.pgm
+*.class
+
+checkstyle.jar
+*.xml
+
+projec_description.ver2.pdf
